@@ -326,5 +326,7 @@ launch,touchdown,program,name,altitude,destination
 2019-09-25,2020-04-17,Soyuz,Soyuz MS-15,426,ISS
 2020-04-09,2020-10-22,Soyuz,Soyuz MS-16,426,ISS
 2020-05-30,2020-08-02,Dragon,Crew Dragon Demo-2,426,ISS
-2020-10-14,,Soyuz,Soyuz MS-17,426,ISS
+2020-10-14,2021-04-08,Soyuz,Soyuz MS-17,426,ISS
 2020-11-16,,Dragon,SpaceX Crew-1,426,ISS
+2021-04-09,,Soyuz,Soyuz MS-18,426,ISS
+2021-04-24,,Dragon,SpaceX Crew-2,426,ISS
