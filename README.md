@@ -7,6 +7,9 @@ Main source : https://en.wikipedia.org/wiki/List_of_human_spaceflights
 
 Other source : [JPL Horizons](https://ssd.jpl.nasa.gov/?horizons)
 
+## Plot
+![Plot](plot.png)
+
 ## Files
 
 ### [missions.csv](missions.csv)
